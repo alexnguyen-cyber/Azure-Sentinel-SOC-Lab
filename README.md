@@ -24,25 +24,20 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-The Identity: <br/>
-<img src="https://i.imgur.com/FymPRFf.png" height="80%" width="80%"/>
+The Architecture: <br/>
+<img src="https://i.imgur.com/AZoESxJ.png" height="80%" width="80%"/>
 <br />
 <br />
-The Automation: <br/>
-<img src="https://i.imgur.com/pIv27RK.png" height="80%" width="80%"/>
-<img src="https://i.imgur.com/ix9lacB.png" height="80%" width="80%"/>
-<img src="https://i.imgur.com/pGBevxN.png" height="80%" width="80%"/>
+KQL Query in Action: <br/>
+<img src="https://i.imgur.com/WPL5IJ8.png" height="80%" width="80%"/>
 <br />
 <br />
-Active Directory Users & Computers (The 1,000 Users):  <br/>
-<img src="https://i.imgur.com/CBIYFhb.png" height="80%" width="80%"/>
+Architecture & Resource Configuration:  <br/>
+<img src="https://i.imgur.com/FVtf5Gh.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/CfGyMxQ.png" height="80%" width="80%"/>
 <br />
 <br />
-DHCP Lease Confirmation: <br/>
-<img src="https://i.imgur.com/jqKzCve.png" height="80%" width="80%"/>
-<br />
-<br />
-Command Prompt ipconfig & ping:  <br/>
-<img src="https://i.imgur.com/UOa35TN.png" height="80%" width="80%"/>
-<img src="https://i.imgur.com/QXOd5NZ.png" height="80%" width="80%"/>
+Log Source Verification: <br/>
+<img src="https://i.imgur.com/dlZofbT.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/NZcaaft.png" height="80%" width="80%"/>
 </p>
